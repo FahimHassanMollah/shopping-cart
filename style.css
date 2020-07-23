@@ -16,6 +16,7 @@ body{
 	margin-bottom: 20px;
 }
 .center-item{
+	cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: flex-start;
